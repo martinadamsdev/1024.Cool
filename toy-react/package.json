@@ -1,0 +1,32 @@
+{
+  "name": "toy-react",
+  "version": "1.0.0",
+  "description": "toy react",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinageradams/1024.Cool.git"
+  },
+  "keywords": [
+    "react",
+    "toy",
+    "react"
+  ],
+  "author": "martinageradams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinageradams/1024.Cool/issues"
+  },
+  "homepage": "https://github.com/martinageradams/1024.Cool#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@babel/preset-env": "^7.11.5",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
